@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `ECE '26` · `RSET Kakkanad` · `Builder of Things`
+### `ECE '26` · `Builder of Things`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Robotics+%7C+IoT;Hardware+Hacker+%2B+Creative+Coder;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
 
@@ -24,9 +24,6 @@
 ```python
 ryyan = {
     "name"     : "Ryyan Safar",
-    "college"  : "RSET, Kakkanad",
-    "degree"   : "B.Tech ECE — Semester 6",
-    "roll"     : "U2301180",
     "interests": [
         "Embedded Systems",
         "Robotics & Sensor Fusion",
@@ -48,48 +45,75 @@ ryyan = {
 <tr>
 <td width="50%">
 
-### 🦾 Worm-Drive Rescue Robot
-**`Raspberry Pi Pico 2W · MPU-6050 · PIR`**
+### 😮‍💨 [too-lazy-to-write-homework-inator](https://github.com/ryyansafar/too-lazy-to-write-homework-inator)
+**`Python`** · *active*
 
-Real-time environment mapping + life detection via sensor fusion. Complementary filter for IMU data. Built for disaster scenarios.
+The name says it all. A Python tool that handles what I don't want to — because automation beats suffering.
 
-`MicroPython` `Sensor Fusion` `Robotics`
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
 
 </td>
 <td width="50%">
 
-### 🤖 Embedded AI Assistant
-**`Gemini 2.0 Flash · Python · NLP`**
+### 💔 [mend-your-heart-game](https://github.com/ryyansafar/mend-your-heart-game)
+**`Lua`** · *Valentine's Day*
 
-Mini ChatGPT for embedded engineers. Intent parser + code generation engine using Google's Gemini API.
+A small game to find yourself. Built with heart — literally.
 
-`Python` `Gemini API` `NLP` `Code Generation`
+![Lua](https://img.shields.io/badge/Lua-0A0A0A?style=flat-square&logo=lua&logoColor=00D9FF)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🖨️ CNC PCB Plotter
-**`Hardware · Motion Control`**
+### 🤟 [the-techtastic-four](https://github.com/ryyansafar/the-techtastic-four)
+**`Python · Flask · OpenCV · Arduino`**
 
-Precision PCB plotting machine — designed, pitched, and presented to an expert panel.
+Sign language → English translator. Computer vision + microcontrollers + an LCD display. Team project.
 
-`CNC` `PCB` `Hardware Design`
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=flat-square&logo=opencv&logoColor=00D9FF)
+![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=00D9FF)
 
 </td>
 <td width="50%">
 
-### 🎨 Code Walk — p5.js
-**`Creative Coding · Generative Art`**
+### 👾 [Runtime\_terrors\_EYRA](https://github.com/ryyansafar/Runtime_terrors_EYRA)
+**`Hacksus 4.0`** · *Hackathon*
 
-Interactive poetic experience built around the theme *"For the Time Being"* using personal photos and minimal interaction.
+EYRA — hackathon project built by Runtime Terrors at Hacksus 4.0. Shipped under pressure. It worked.
 
-`p5.js` `Creative Coding` `JavaScript`
+![Hackathon](https://img.shields.io/badge/Hacksus_4.0-FF6B6B?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⭕ [Tic-Tac-Toe](https://github.com/ryyansafar/Tic-Tac-Toe)
+**`C++`**
+
+Classic game. Clean C++. Nothing to prove, everything to enjoy.
+
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=00D9FF)
+
+</td>
+<td width="50%">
+
+### 🌶️ [rybo-learns-flask](https://github.com/ryyansafar/rybo-learns-flask)
+**`Python · Flask`**
+
+Learning Flask the hands-on way. From zero to routes.
+
+![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
 
 </td>
 </tr>
 </table>
+
+> 🔧 *More projects dropping soon — hardware stuff incoming.*
 
 ---
 
@@ -110,7 +134,7 @@ Interactive poetic experience built around the theme *"For the Time Being"* usin
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0A0A0A?style=for-the-badge&logo=raspberry-pi&logoColor=C51A4A)
 ![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge&logo=arduino&logoColor=00979D)
-![ANSYS](https://img.shields.io/badge/ANSYS_HFSS-0A0A0A?style=for-the-badge&logo=ansys&logoColor=FFB71B)
+![ANSYS HFSS](https://img.shields.io/badge/ANSYS_HFSS-FFB71B?style=for-the-badge&logoColor=0A0A0A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![p5.js](https://img.shields.io/badge/p5.js-0A0A0A?style=for-the-badge&logo=p5dotjs&logoColor=ED225D)
 
@@ -157,7 +181,7 @@ Interactive poetic experience built around the theme *"For the Time Being"* usin
 <div align="center">
 
 ```
-[ RSET · KTU · ECE · S6 ] ━━━━━━━━━━━━━━━ [ Signal Strong. Always Transmitting. ]
+[ ECE · S6 ] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ [ Signal Strong. Always Transmitting. ]
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ryyansafar&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
