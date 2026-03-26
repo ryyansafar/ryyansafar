@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `ECE '26` · `Builder of Things`
+### `ECE '26` · `Professional Thing-Breaker & Maker`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Robotics+%7C+IoT;Hardware+Hacker+%2B+Creative+Coder;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Robotics+%7C+IoT;Hardware+Hacker+%2B+Creative+Coder;If+it+ain't+broken%2C+I+haven't+added+enough+features+yet.)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,14 +24,15 @@
 ```python
 ryyan = {
     "name"     : "Ryyan Safar",
+    "status"   : "Probably voiding a warranty somewhere",
     "interests": [
         "Embedded Systems",
-        "Robotics & Sensor Fusion",
-        "Wireless & Optical Comms",
+        "Robotics & Things that go 'beep'",
+        "Wireless & Laser Beams",
         "Creative Coding",
         "Hardware Hacking"
     ],
-    "currently": "Building robots that feel the world 🤖"
+    "currently": "Teaching robots how to see... and probably judge my messy desk 🤖"
 }
 ```
 
@@ -39,16 +40,40 @@ ryyan = {
 
 ---
 
-## `> ls ~/projects`
+## `> ls -l ~/projects | grep "worth_showing_off"`
 
 <table>
 <tr>
 <td width="50%">
 
-### 😮‍💨 [too-lazy-to-write-homework-inator](https://github.com/ryyansafar/too-lazy-to-write-homework-inator)
-**`Python`** · *active*
+### 🍞 [openbreadboard](https://github.com/ryyansafar/openbreadboard)
+**`Next.js`** · `TypeScript` · `Python`
 
-The name says it all. A Python tool that handles what I don't want to — because automation beats suffering.
+An open-source web platform for designing and simulating electronic circuits. Because who needs real hardware when you have the power of the web? (Just kidding, I love hardware).
+
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6)
+
+</td>
+<td width="50%">
+
+### 😩 [help-me-survive-college](https://github.com/ryyansafar/help-me-survive-college)
+**`HTML`** · `TypeScript` · `CSS`
+
+A grade calculator for when you're running on 3 hours of sleep and need to know the absolute bare minimum to pass. We've all been there.
+
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E34F26)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 😮‍💨 [too-lazy-to-write-homework-inator](https://github.com/ryyansafar/too-lazy-to-write-homework-inator)
+**`Python`**
+
+A Python script that "helps" with my homework. Let's just say it's a great exercise in automation. Don't tell my professors.
 
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
 
@@ -56,9 +81,9 @@ The name says it all. A Python tool that handles what I don't want to — becaus
 <td width="50%">
 
 ### 💔 [mend-your-heart-game](https://github.com/ryyansafar/mend-your-heart-game)
-**`Lua`** · *Valentine's Day*
+**`Lua`**
 
-A small game to find yourself. Built with heart — literally.
+A little game I made for Valentine's Day. It's probably the only time I've ever been this romantic.
 
 ![Lua](https://img.shields.io/badge/Lua-0A0A0A?style=flat-square&logo=lua&logoColor=00D9FF)
 
@@ -70,54 +95,30 @@ A small game to find yourself. Built with heart — literally.
 ### 🤟 [the-techtastic-four](https://github.com/ryyansafar/the-techtastic-four)
 **`Python · Flask · OpenCV · Arduino`**
 
-Sign language → English translator. Computer vision + microcontrollers + an LCD display. Team project.
+A sign language to English translator. This project was a team effort and a great reminder that technology can be used for good.
 
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=flat-square&logo=opencv&logoColor=00D9FF)
-![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=00D9FF)
 
 </td>
 <td width="50%">
 
-### 👾 [Runtime\_terrors\_EYRA](https://github.com/ryyansafar/Runtime_terrors_EYRA)
-**`Hacksus 4.0`** · *Hackathon*
+### 📚 [literature-clock-pro](https://github.com/ryyansafar/literature-clock-pro)
+**`JavaScript`** · `HTML` · `CSS`
 
-EYRA — hackathon project built by Runtime Terrors at Hacksus 4.0. Shipped under pressure. It worked.
+A clock that tells time using quotes from literature. For when you want to be dramatic about being late.
 
-![Hackathon](https://img.shields.io/badge/Hacksus_4.0-FF6B6B?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⭕ [Tic-Tac-Toe](https://github.com/ryyansafar/Tic-Tac-Toe)
-**`C++`**
-
-Classic game. Clean C++. Nothing to prove, everything to enjoy.
-
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=00D9FF)
-
-</td>
-<td width="50%">
-
-### 🌶️ [rybo-learns-flask](https://github.com/ryyansafar/rybo-learns-flask)
-**`Python · Flask`**
-
-Learning Flask the hands-on way. From zero to routes.
-
-![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=00D9FF)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 </td>
 </tr>
 </table>
 
-> 🔧 *More projects dropping soon — hardware stuff incoming.*
+> 🚀 *Warning: More chaotic projects are currently under construction.*
 
 ---
 
-## `> cat skills.txt`
+## `> cat /proc/skills`
 
 <div align="center">
 
@@ -126,24 +127,24 @@ Learning Flask the hands-on way. From zero to routes.
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00D9FF)
 ![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00D9FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MATLAB](https://img.shields.io/badge/MATLAB-0A0A0A?style=for-the-badge&logo=mathworks&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Hardware & Tools**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0A0A0A?style=for-the-badge&logo=raspberry-pi&logoColor=C51A4A)
 ![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge&logo=arduino&logoColor=00979D)
-![ANSYS HFSS](https://img.shields.io/badge/ANSYS_HFSS-FFB71B?style=for-the-badge&logoColor=0A0A0A)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![p5.js](https://img.shields.io/badge/p5.js-0A0A0A?style=for-the-badge&logo=p5dotjs&logoColor=ED225D)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 **Domains**
 
-![Embedded](https://img.shields.io/badge/Embedded_Systems-0A0A0A?style=for-the-badge&logoColor=00D9FF)
-![RF](https://img.shields.io/badge/RF_&_Microwave-0A0A0A?style=for-the-badge&logoColor=00D9FF)
-![Optical](https://img.shields.io/badge/Fiber_Optics-0A0A0A?style=for-the-badge&logoColor=00D9FF)
-![DSP](https://img.shields.io/badge/DSP_&_Comms-0A0A0A?style=for-the-badge&logoColor=00D9FF)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A0A0A?style=for-the-badge&logoColor=00D9FF)
+![Robotics](https://img.shields.io/badge/Robotics-0A0A0A?style=for-the-badge&logoColor=00D9FF)
+![IoT](https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logoColor=00D9FF)
+![PCB Design](https://img.shields.io/badge/PCB_Design-0A0A0A?style=for-the-badge&logoColor=00D9FF)
 
 </div>
 
@@ -166,13 +167,14 @@ Learning Flask the hands-on way. From zero to routes.
 
 ---
 
-## `> ping ryyan`
+## `> contact --via`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ryyansafar-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryyansafar)
+<a href="https://www.linkedin.com/in/ryyansafar/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:ryyansafar@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
-*"Build the thing. Figure out the rest later."*
+*"Have an idea that's 99% impossible and 1% crazy? I'm in."*
 
 </div>
 
@@ -181,7 +183,7 @@ Learning Flask the hands-on way. From zero to routes.
 <div align="center">
 
 ```
-[ ECE · S6 ] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ [ Signal Strong. Always Transmitting. ]
+[ ECE · S6 ] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ [ Connection Established. Awaiting Next Command. ]
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ryyansafar&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
