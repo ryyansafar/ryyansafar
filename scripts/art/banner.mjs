@@ -19,11 +19,11 @@ function nameRects(text) {
   for (const ch of text) {
     const glyph = FONT5[ch];
     glyph.forEach((row, y) =>
-      [...row].forEach((c, x) => c === "X" && rects.push(`<rect x="${(cx + x) * PX}" y="${y * PX}" width="${PX - 2}" height="${PX - 2}"/>`)),
+      [...row].forEach((c, x) => c === "X" && rects.push(`M${(cx + x) * PX} ${y * PX}h${PX - 2}v${PX - 2}h-${PX - 2}z`)),
     );
     cx += glyph[0].length + 1;
   }
-  return { markup: rects.join(""), cols: cx - 1 };
+  return { markup: `<path d="${rects.join("")}"/>`, cols: cx - 1 };
 }
 
 const PERIOD = 300;
@@ -34,8 +34,8 @@ export function banner(t) {
   const { markup, cols } = nameRects("RYYAN SAFAR");
   const nameX = Math.round((WIDTH - cols * PX) / 2);
   const css = `
-.name rect{fill:${t.fg}}
-.c1 rect{fill:${t.hot}}.c2 rect{fill:${t.cool}}
+.name path{fill:${t.fg}}
+.c1 path{fill:${t.hot}}.c2 path{fill:${t.cool}}
 .c1{opacity:.75;animation:g1 4s steps(1) infinite}.c2{opacity:.75;animation:g2 4s steps(1) infinite}
 @keyframes g1{0%,90%,100%{transform:translate(0,0)}91%{transform:translate(-5px,1px)}93%{transform:translate(4px,-1px)}96%{transform:translate(-2px,0)}}
 @keyframes g2{0%,90%,100%{transform:translate(0,0)}92%{transform:translate(5px,-1px)}94%{transform:translate(-4px,1px)}97%{transform:translate(2px,0)}}
@@ -57,7 +57,6 @@ export function banner(t) {
 <g transform="translate(${nameX},56)">
 <g class="c1">${markup}</g><g class="c2">${markup}</g><g class="name">${markup}</g>
 </g>
-<g clip-path="url(#nc)"><rect class="scan" x="0" y="48" width="60" height="76" fill="url(#sg)"/></g>
 <line x1="24" x2="${WIDTH - 24}" y1="168" y2="168" stroke="${t.dim}" stroke-dasharray="2 6"/>
 <g clip-path="url(#wc)"><g transform="translate(0,168)"><g class="wave" fill="none" stroke="${t.accent}" stroke-width="2" stroke-linejoin="round">${wavePath()}</g></g></g>
 <text x="24" y="232" font-size="15" fill="${t.fg}">${esc("> seeking: 6-month internship, jan-jun 2027 | embedded / edge-AI silicon / VLSI")}<tspan class="blink" fill="${t.hot}">_</tspan></text>

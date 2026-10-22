@@ -1,12 +1,12 @@
 import { svg, esc } from "./theme.mjs";
 
-const COLS = 44;
-const ROWS = 22;
-const FRAMES = 16;
+const COLS = 36;
+const ROWS = 18;
+const FRAMES = 8;
 const CYCLE = 4;
 const FS = 11;
-const GLOBE_X = 275;
-const GLOBE_Y = 22;
+const GLOBE_X = 300;
+const GLOBE_Y = 30;
 const ROW_H = 11;
 
 // Blobby pseudo-continents from layered sines; not real geography, just texture.
@@ -40,16 +40,16 @@ function frameRows(frame) {
 export function globe(t) {
   const frames = Array.from({ length: FRAMES }, (_, f) => {
     const rows = frameRows(f)
-      .map((line, r) => `<text x="${GLOBE_X}" y="${GLOBE_Y + r * ROW_H}" font-size="${FS}" textLength="${COLS * FS * 0.6}" lengthAdjust="spacing" xml:space="preserve">${esc(line)}</text>`)
+      .map((line, r) => `<tspan x="${GLOBE_X}" y="${GLOBE_Y + r * ROW_H}">${esc(line)}</tspan>`)
       .join("");
-    return `<g class="gf" style="animation-delay:${((f * CYCLE) / FRAMES / 2.5).toFixed(3)}s" fill="${t.accent}">${rows}</g>`;
+    return `<g class="gf" style="animation-delay:${((f * CYCLE) / FRAMES / 2).toFixed(3)}s" fill="${t.accent}"><text font-size="${FS}" xml:space="preserve">${rows}</text></g>`;
   }).join("");
   const slot = (100 / FRAMES).toFixed(3);
   const css = `
-.gf{opacity:0;animation:gf ${(CYCLE / 2.5).toFixed(2)}s steps(1) infinite}
+.gf{opacity:0;animation:gf ${(CYCLE / 2).toFixed(2)}s steps(1) infinite}
 @keyframes gf{0%{opacity:1}${slot}%{opacity:0}100%{opacity:0}}
 `;
-  const arc = "M24,226 Q210,0 400,128";
+  const arc = "M24,226 Q220,0 410,112";
   const body = `
 <text x="24" y="20" font-size="12" fill="${t.mute}">VISA ROULETTE // AI SEES, RULES DECIDE</text>
 ${frames}
@@ -57,7 +57,7 @@ ${frames}
 <text font-size="16" font-weight="bold" fill="${t.hot}" text-anchor="middle">-=&gt;
 <animateMotion dur="${CYCLE}s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.7;1" path="${arc}"/>
 </text>
-<circle cx="400" cy="128" r="5" fill="none" stroke="${t.hot}" stroke-width="2" opacity="0">
+<circle cx="410" cy="112" r="5" fill="none" stroke="${t.hot}" stroke-width="2" opacity="0">
 <animate attributeName="r" dur="${CYCLE}s" repeatCount="indefinite" values="3;3;3;16;3" keyTimes="0;0.69;0.7;0.9;1"/>
 <animate attributeName="opacity" dur="${CYCLE}s" repeatCount="indefinite" values="0;0;1;0;0" keyTimes="0;0.69;0.7;0.9;1"/>
 </circle>
