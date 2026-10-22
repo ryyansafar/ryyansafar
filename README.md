@@ -1,12 +1,42 @@
-# Ryyan Safar
+<!-- Art in assets/ is generated: node scripts/make-art.mjs. Repo tables: scripts/update-repos.mjs (daily Action). Snake: .github/workflows/snake.yml -->
+<div align="center">
 
-**ECE '27 at RSET, Kochi.** I build hardware that thinks: IMU gloves, ESP32 gadgets, on-device AI, and the odd Mac app. I break things first and fix them second.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Ryyan Safar, ECE '27 at RSET Kochi. Seeking a 6-month internship, Jan to Jun 2027." src="assets/banner-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+  <img alt="Terminal card: whoami, now, wins" src="assets/terminal-dark.svg" width="100%">
+</picture>
+
+**ECE '27 at RSET, Kochi.** I build hardware that thinks: IMU gloves, ESP32 gadgets, on-device AI, and the odd Mac app.
 
 **Seeking a 6-month internship, Jan to Jun 2027: embedded, edge-AI silicon, VLSI.** Open to relocation.
 
 [Portfolio](https://ryyansafar.site) · [LinkedIn](https://www.linkedin.com/in/ryyan-safar-038a82288/) · [Email](mailto:safarryyan@gmail.com)
 
+</div>
+
 ## Featured
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/glove-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/glove-light.svg">
+  <img alt="Animated glove: notes fall onto five fingers and each finger strikes in turn" src="assets/glove-dark.svg" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/globe-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/globe-light.svg">
+  <img alt="Animated globe: a paper plane lands on a spinning ASCII globe" src="assets/globe-dark.svg" width="49%">
+</picture>
+
+</div>
 
 | Project | Outcome |
 |---|---|
@@ -14,6 +44,23 @@
 | [**Thaalam**](https://github.com/ryyansafar/thaalam) | Best Use of Gemma, Google Physical AI Hackathon. A 5-finger air-percussion glove. On-device Gemma on a Raspberry Pi 5 turns a song into a finger-by-finger lesson and coaches in Malayalam, English and Manglish. Led a team of 3 in 24 hours. |
 | [**MacMonitor**](https://github.com/ryyansafar/MacMonitor) · [site](https://macmonitor.ryyansafar.site) | Open-source Apple Silicon menu-bar app and widget reading SMC, IOReport and Mach directly. 100+ stars, Homebrew install, Product Hunt launch, outside contributors. |
 | **Camera-only road-surface depth estimation** | Research with Anoop Thomas (RSET). LiDAR is used only as training supervision on public datasets; manuscript under review. Approach only, no results yet. |
+
+## Commit snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryyansafar/ryyansafar/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryyansafar/ryyansafar/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ryyansafar/ryyansafar/output/github-snake-dark.svg" width="100%">
+</picture>
+
+<details>
+<summary>What breaks if you remove me? (removal tests)</summary>
+
+- No glove: nothing to strike, cue or judge. No Gemma: onsets with no thaalam, no finger map, no lesson, no coach.
+- No rules engine: Visa Roulette is a very confident guess machine. That is why the rules decide and the model only explains.
+- No Ryyan: someone else has to break things first. Unclear who volunteers.
+
+</details>
 
 ## Latest from my repos
 
