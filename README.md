@@ -1,191 +1,74 @@
-<div align="center">
+# Ryyan Safar
 
-```
-██████╗ ██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗
-██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗████╗  ██║
-██████╔╝ ╚████╔╝  ╚████╔╝ ███████║██╔██╗ ██║
-██╔══██╗  ╚██╔╝    ╚██╔╝  ██╔══██║██║╚██╗██║
-██║  ██║   ██║      ██║   ██║  ██║██║ ╚████║
-╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+**ECE '27 at RSET, Kochi.** I build hardware that thinks: IMU gloves, ESP32 gadgets, on-device AI, and the odd Mac app. I break things first and fix them second.
 
-### `ECE '26` · `Professional Thing-Breaker & Maker`
+**Seeking a 6-month internship, Jan to Jun 2027: embedded, edge-AI silicon, VLSI.** Open to relocation.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Robotics+%7C+IoT;Hardware+Hacker+%2B+Creative+Coder;If+it+ain't+broken%2C+I+haven't+added+enough+features+yet.)](https://git.io/typing-svg)
+[Portfolio](https://ryyansafar.site) · [LinkedIn](https://www.linkedin.com/in/ryyan-safar-038a82288/) · [Email](mailto:safarryyan@gmail.com)
 
-</div>
+## Featured
 
----
+| Project | Outcome |
+|---|---|
+| [**Visa Roulette**](https://github.com/ryyansafar/visa-roulette) · [demo](https://layoverhackathon.vercel.app) | LAYOVER 2026 winner. A travel booth you play: OCR reads a passport and ticket, a JSON rules engine (not a model) gives cited visa verdicts for 113 destinations, and an ESP32 + MPU-6050 paper plane lands a 3D globe on a country. |
+| [**Thaalam**](https://github.com/ryyansafar/thaalam) | Best Use of Gemma, Google Physical AI Hackathon. A 5-finger air-percussion glove. On-device Gemma on a Raspberry Pi 5 turns a song into a finger-by-finger lesson and coaches in Malayalam, English and Manglish. Led a team of 3 in 24 hours. |
+| [**MacMonitor**](https://github.com/ryyansafar/MacMonitor) · [site](https://macmonitor.ryyansafar.site) | Open-source Apple Silicon menu-bar app and widget reading SMC, IOReport and Mach directly. 100+ stars, Homebrew install, Product Hunt launch, outside contributors. |
+| **Camera-only road-surface depth estimation** | Research with Anoop Thomas (RSET). LiDAR is used only as training supervision on public datasets; manuscript under review. Approach only, no results yet. |
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/ryyansafar/ryyansafar/main/assets/circuit.gif" alt="circuit animation"/>
+## Latest from my repos
 
-## `> whoami`
+<!-- REPOS:START -->
 
-```python
-ryyan = {
-    "name"     : "Ryyan Safar",
-    "status"   : "Probably voiding a warranty somewhere",
-    "interests": [
-        "Embedded Systems",
-        "Robotics & Things that go 'beep'",
-        "Wireless & Laser Beams",
-        "Creative Coding",
-        "Hardware Hacking"
-    ],
-    "currently": "Teaching robots how to see... and probably judge my messy desk 🤖"
-}
-```
+**Most starred**
 
-<br clear="right"/>
+| Repo | Stars | About |
+|---|---|---|
+| [MacMonitor](https://github.com/ryyansafar/MacMonitor) | 109 | Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS |
+| [help-me-survive-college](https://github.com/ryyansafar/help-me-survive-college) | 4 | a small grade calculator to see how much marks we need to pass and for each specific grade |
+| [tokenbar](https://github.com/ryyansafar/tokenbar) | 4 | macOS menu bar utility that monitors token usage and spend across every AI coding tool run |
 
----
+**Recently pushed**
 
-## `> ls -l ~/projects | grep "worth_showing_off"`
+| Repo | Last push | About |
+|---|---|---|
+| [MacMonitor](https://github.com/ryyansafar/MacMonitor) | 2026-10-17 | Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS |
+| [visa-roulette](https://github.com/ryyansafar/visa-roulette) | 2026-10-11 | THUNA — LAYOVER 2026 hackathon project (TinkerSpace Calicut) |
+| [thaalam](https://github.com/ryyansafar/thaalam) | 2026-08-31 | Thaalam: 5-finger air-percussion glove with Yousician-style real-time feedback. Pi 5 + Gem |
+| [homebrew-macmonitor](https://github.com/ryyansafar/homebrew-macmonitor) | 2026-08-06 | Homebrew tap for MacMonitor — brew tap ryyansafar/macmonitor |
 
-<table>
-<tr>
-<td width="50%">
+**Most active, last 90 days**
 
-### 🍞 [openbreadboard](https://github.com/ryyansafar/openbreadboard)
-**`Next.js`** · `TypeScript` · `Python`
+| Repo | Commits | About |
+|---|---|---|
+| [thaalam](https://github.com/ryyansafar/thaalam) | 82 | Thaalam: 5-finger air-percussion glove with Yousician-style real-time feedback. Pi 5 + Gem |
+| [visa-roulette](https://github.com/ryyansafar/visa-roulette) | 32 | THUNA — LAYOVER 2026 hackathon project (TinkerSpace Calicut) |
+| [MacMonitor](https://github.com/ryyansafar/MacMonitor) | 28 | Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS |
 
-An open-source web platform for designing and simulating electronic circuits. Because who needs real hardware when you have the power of the web? (Just kidding, I love hardware).
+_Auto-generated daily from the GitHub API._
 
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6)
+<!-- REPOS:END -->
 
-</td>
-<td width="50%">
+## Wins
 
-### 😩 [help-me-survive-college](https://github.com/ryyansafar/help-me-survive-college)
-**`HTML`** · `TypeScript` · `CSS`
+- LAYOVER 2026 overall winner (TinkerHub x The Visa Guy)
+- Best Use of Gemma, Google Physical AI Hackathon Onam Edition
+- First prize, KruizeX Kochi Water Metro problem-athon
+- TinkerHub Maker of the Month, September 2026 ([feature](https://medium.com/tinkerhub/maker-of-the-month-sep-26-ryyan-safar-i-hope-this-works-b13827605cf5))
+- Samsung Semiconductor Fellowship, via IISc Bangalore ISWDP
 
-A grade calculator for when you're running on 3 hours of sleep and need to know the absolute bare minimum to pass. We've all been there.
+## What I work with
 
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E34F26)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6)
+- **Embedded and hardware:** ESP32, Raspberry Pi 5 and Pico 2W, MPU-6050 IMU, IMU + GNSS Kalman fusion, custom PCB, C/C++, Python
+- **VLSI:** Verilog (NPTEL), Synopsys Sentaurus TCAD (ISWDP)
+- **Edge AI:** on-device Gemma on Pi 5, OCR pipelines with rules engines
+- **Apps:** Swift, Objective-C, Flutter, Next.js, Flask, Firebase
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Currently: Application Developer Intern at Lascade (Simline, MixRoutes). B.Tech ECE, CGPA 8.34/10.
 
-### 😮‍💨 [too-lazy-to-write-homework-inator](https://github.com/ryyansafar/too-lazy-to-write-homework-inator)
-**`Python`**
+## Support and links
 
-A Python script that "helps" with my homework. Let's just say it's a great exercise in automation. Don't tell my professors.
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
-
-</td>
-<td width="50%">
-
-### 💔 [mend-your-heart-game](https://github.com/ryyansafar/mend-your-heart-game)
-**`Lua`**
-
-A little game I made for Valentine's Day. It's probably the only time I've ever been this romantic.
-
-![Lua](https://img.shields.io/badge/Lua-0A0A0A?style=flat-square&logo=lua&logoColor=00D9FF)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤟 [the-techtastic-four](https://github.com/ryyansafar/the-techtastic-four)
-**`Python · Flask · OpenCV · Arduino`**
-
-A sign language to English translator. This project was a team effort and a great reminder that technology can be used for good.
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00D9FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=flat-square&logo=opencv&logoColor=00D9FF)
-
-</td>
-<td width="50%">
-
-### 📚 [literature-clock-pro](https://github.com/ryyansafar/literature-clock-pro)
-**`JavaScript`** · `HTML` · `CSS`
-
-A clock that tells time using quotes from literature. For when you want to be dramatic about being late.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-</td>
-</tr>
-</table>
-
-> 🚀 *Warning: More chaotic projects are currently under construction.*
-
----
-
-## `> cat /proc/skills`
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00D9FF)
-![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Hardware & Tools**
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0A0A0A?style=for-the-badge&logo=raspberry-pi&logoColor=C51A4A)
-![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-**Domains**
-
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A0A0A?style=for-the-badge&logoColor=00D9FF)
-![Robotics](https://img.shields.io/badge/Robotics-0A0A0A?style=for-the-badge&logoColor=00D9FF)
-![IoT](https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logoColor=00D9FF)
-![PCB Design](https://img.shields.io/badge/PCB_Design-0A0A0A?style=for-the-badge&logoColor=00D9FF)
-
-</div>
-
----
-
-## `> top --sort=activity`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ryyansafar&show_icons=true&theme=merko&bg_color=0A0A0A&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=CCCCCC&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyansafar&layout=compact&theme=merko&bg_color=0A0A0A&border_color=00D9FF&title_color=00D9FF&text_color=CCCCCC" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryyansafar&theme=dark&background=0A0A0A&border=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=CCCCCC&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `> contact --via`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ryyansafar/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:ryyansafar@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-
-*"Have an idea that's 99% impossible and 1% crazy? I'm in."*
-
-</div>
-
----
-
-<div align="center">
-
-```
-[ ECE · S6 ] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ [ Connection Established. Awaiting Next Command. ]
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=ryyansafar&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+- [ryyansafar.site](https://ryyansafar.site)
+- [GitHub](https://github.com/ryyansafar)
+- [Buy Me a Coffee](https://buymeacoffee.com/ryyansafar)
+- [PayPal](https://www.paypal.com/paypalme/ryyansafar)
+- [Razorpay](https://razorpay.me/@ryyansafar)
