@@ -70,7 +70,7 @@
 
 | Repo | Stars | About |
 |---|---|---|
-| [MacMonitor](https://github.com/ryyansafar/MacMonitor) | 109 | Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS |
+| [MacMonitor](https://github.com/ryyansafar/MacMonitor) | 110 | Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS |
 | [help-me-survive-college](https://github.com/ryyansafar/help-me-survive-college) | 4 | a small grade calculator to see how much marks we need to pass and for each specific grade |
 | [tokenbar](https://github.com/ryyansafar/tokenbar) | 4 | macOS menu bar utility that monitors token usage and spend across every AI coding tool run |
 
