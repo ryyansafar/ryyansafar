@@ -78,18 +78,18 @@
 
 | Repo | Last push | About |
 |---|---|---|
-| [MacMonitor](https://github.com/ryyansafar/MacMonitor) | 2026-10-17 | Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS |
-| [visa-roulette](https://github.com/ryyansafar/visa-roulette) | 2026-10-11 | THUNA — LAYOVER 2026 hackathon project (TinkerSpace Calicut) |
-| [thaalam](https://github.com/ryyansafar/thaalam) | 2026-08-31 | Thaalam: 5-finger air-percussion glove with Yousician-style real-time feedback. Pi 5 + Gem |
-| [homebrew-macmonitor](https://github.com/ryyansafar/homebrew-macmonitor) | 2026-08-06 | Homebrew tap for MacMonitor — brew tap ryyansafar/macmonitor |
+| [lightlink](https://github.com/ryyansafar/lightlink) | 2026-10-25 | - |
+| [stillcounts](https://github.com/ryyansafar/stillcounts) | 2026-10-24 | A relief-camp ledger that keeps counting with the internet pulled. Devin Hacks Kochi. |
+| [kannu](https://github.com/ryyansafar/kannu) | 2026-10-24 | A Pi that says I am not sure, files its own bug report and gets it fixed. Devin Hacks Koch |
+| [chillucheck](https://github.com/ryyansafar/chillucheck) | 2026-10-24 | Type your name in Malayalam and watch real software mangle it. Built for Devin Hacks Kochi |
 
 **Most active, last 90 days**
 
 | Repo | Commits | About |
 |---|---|---|
-| [thaalam](https://github.com/ryyansafar/thaalam) | 82 | Thaalam: 5-finger air-percussion glove with Yousician-style real-time feedback. Pi 5 + Gem |
-| [visa-roulette](https://github.com/ryyansafar/visa-roulette) | 32 | THUNA — LAYOVER 2026 hackathon project (TinkerSpace Calicut) |
+| [stillcounts](https://github.com/ryyansafar/stillcounts) | 66 | A relief-camp ledger that keeps counting with the internet pulled. Devin Hacks Kochi. |
 | [MacMonitor](https://github.com/ryyansafar/MacMonitor) | 28 | Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS |
+| [lightlink](https://github.com/ryyansafar/lightlink) | 24 | - |
 
 _Auto-generated daily from the GitHub API._
 
