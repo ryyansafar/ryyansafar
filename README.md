@@ -78,10 +78,10 @@
 
 | Repo | Last push | About |
 |---|---|---|
+| [brightloop-subscription-management](https://github.com/ryyansafar/brightloop-subscription-management) | 2026-10-31 | Odoo x Make-A-Ton 9.0 Kochi Hackathon 2026 - Subscription Management System |
 | [lightlink](https://github.com/ryyansafar/lightlink) | 2026-10-25 | - |
 | [stillcounts](https://github.com/ryyansafar/stillcounts) | 2026-10-24 | A relief-camp ledger that keeps counting with the internet pulled. Devin Hacks Kochi. |
 | [kannu](https://github.com/ryyansafar/kannu) | 2026-10-24 | A Pi that says I am not sure, files its own bug report and gets it fixed. Devin Hacks Koch |
-| [chillucheck](https://github.com/ryyansafar/chillucheck) | 2026-10-24 | Type your name in Malayalam and watch real software mangle it. Built for Devin Hacks Kochi |
 
 **Most active, last 90 days**
 
