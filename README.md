@@ -89,7 +89,7 @@
 |---|---|---|
 | [stillcounts](https://github.com/ryyansafar/stillcounts) | 66 | A relief-camp ledger that keeps counting with the internet pulled. Devin Hacks Kochi. |
 | [brightloop-subscription-management](https://github.com/ryyansafar/brightloop-subscription-management) | 49 | Odoo x Make-A-Ton 9.0 Kochi Hackathon 2026 - Subscription Management System |
-| [MacMonitor](https://github.com/ryyansafar/MacMonitor) | 28 | Real-time Apple Silicon system monitor — menu bar app + desktop widget for macOS |
+| [lightlink](https://github.com/ryyansafar/lightlink) | 24 | - |
 
 _Auto-generated daily from the GitHub API._
 
