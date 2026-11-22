@@ -78,10 +78,10 @@
 
 | Repo | Last push | About |
 |---|---|---|
+| [malayalam-notch](https://github.com/ryyansafar/malayalam-notch) | 2026-11-22 | Malayalam Notch: a native macOS helper that lives in the MacBook notch. Malayalam voice no |
 | [brightloop-subscription-management](https://github.com/ryyansafar/brightloop-subscription-management) | 2026-10-31 | Odoo x Make-A-Ton 9.0 Kochi Hackathon 2026 - Subscription Management System |
 | [lightlink](https://github.com/ryyansafar/lightlink) | 2026-10-25 | - |
 | [stillcounts](https://github.com/ryyansafar/stillcounts) | 2026-10-24 | A relief-camp ledger that keeps counting with the internet pulled. Devin Hacks Kochi. |
-| [kannu](https://github.com/ryyansafar/kannu) | 2026-10-24 | A Pi that says I am not sure, files its own bug report and gets it fixed. Devin Hacks Koch |
 
 **Most active, last 90 days**
 
@@ -89,7 +89,7 @@
 |---|---|---|
 | [stillcounts](https://github.com/ryyansafar/stillcounts) | 66 | A relief-camp ledger that keeps counting with the internet pulled. Devin Hacks Kochi. |
 | [brightloop-subscription-management](https://github.com/ryyansafar/brightloop-subscription-management) | 49 | Odoo x Make-A-Ton 9.0 Kochi Hackathon 2026 - Subscription Management System |
-| [lightlink](https://github.com/ryyansafar/lightlink) | 24 | - |
+| [malayalam-notch](https://github.com/ryyansafar/malayalam-notch) | 42 | Malayalam Notch: a native macOS helper that lives in the MacBook notch. Malayalam voice no |
 
 _Auto-generated daily from the GitHub API._
 
