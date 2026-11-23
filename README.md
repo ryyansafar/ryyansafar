@@ -89,7 +89,7 @@
 |---|---|---|
 | [stillcounts](https://github.com/ryyansafar/stillcounts) | 66 | A relief-camp ledger that keeps counting with the internet pulled. Devin Hacks Kochi. |
 | [brightloop-subscription-management](https://github.com/ryyansafar/brightloop-subscription-management) | 49 | Odoo x Make-A-Ton 9.0 Kochi Hackathon 2026 - Subscription Management System |
-| [malayalam-notch](https://github.com/ryyansafar/malayalam-notch) | 42 | Malayalam Notch: a native macOS helper that lives in the MacBook notch. Malayalam voice no |
+| [malayalam-notch](https://github.com/ryyansafar/malayalam-notch) | 43 | Malayalam Notch: a native macOS helper that lives in the MacBook notch. Malayalam voice no |
 
 _Auto-generated daily from the GitHub API._
 
